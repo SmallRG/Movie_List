@@ -1,0 +1,2 @@
+1.this is a movie list project to practice basic web app development, which includes local server build-up by npm/express/nodemon.
+2.It contains movie list that includes search function and list basic information of each movie.
